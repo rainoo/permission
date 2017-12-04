@@ -4,12 +4,11 @@
 
 ## 项目启动注意事项：
 
-1、数据库配置：/resources/settings.properties
-2、redis配置：/resources/redis.properties
-3、项目登录页：/signin.jsp
-4、登录使用用户名和密码：
-username: admin@qq.com
-password: 12345678
+- 1、数据库配置：/resources/settings.properties
+- 2、redis配置：/resources/redis.properties
+- 3、项目登录页：/signin.jsp
+- 4、登录使用用户名和密码：
+- username: admin@qq.com  password: 12345678
 
 ## 其他：
 1、如果暂时不想使用redis，如何移除
